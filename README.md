@@ -43,7 +43,7 @@ Open a pull request.
 If you find my blogs helpful or insightful, please consider starring this repository. Your support is greatly appreciated!
 
 📬 Contact
-For any questions, suggestions, or feedback, feel free to reach out:
+For any questions, suggestions, or feedback, feel free to reach out: <br>
 <br><a href="https://twitter.com/rohan_sh0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohan_sh0808" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohan-shrivastava-887a15251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-shrivastava-887a15251" height="30" width="40" /></a>
 
