@@ -63,20 +63,35 @@ Copy code
 
 Contributions are welcome! If you'd like to contribute to this repository, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
+● Fork the repository.
+
+● Create a new branch (git checkout -b feature-branch).
+
+● Make your changes and commit them (git commit -m 'Add some feature').
+
+● Push to the branch (git push origin feature-branch).
+
+● Open a pull request.
+
 ⭐️ Support
-If you find my blogs helpful or insightful, please consider starring this repository. Your support is greatly appreciated!
+
+● If you find my blogs helpful or insightful, please consider starring this repository. 
+
+● Your support is greatly appreciated!
+
 
 📬 Contact
+
 For any questions, suggestions, or feedback, feel free to reach out: <br>
+
 <br><a href="https://twitter.com/rohan_sh0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohan_sh0808" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/rohan-shrivastava-887a15251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-shrivastava-887a15251" height="30" width="40" /></a>
 
-Thank you for visiting the Hashnode-Blogs repository! Happy reading and coding! 🚀
+
+Thank you for visiting the Hashnode-Blogs repository!
+
+Happy reading and coding! 🚀
 
 # Badges-Earned
 ![First Badge](https://github.com/RohanShrivastava08/Hashnode-Blogs/assets/94133270/248a5960-aa43-4bb1-b222-c4f9f49d6e08)
