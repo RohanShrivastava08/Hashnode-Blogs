@@ -98,6 +98,6 @@ Happy reading and coding! 🚀
 
 # Badges-Earned
 ![First Badge](https://github.com/RohanShrivastava08/Hashnode-Blogs/assets/94133270/248a5960-aa43-4bb1-b222-c4f9f49d6e08)
+
 ![Second Badge](https://github.com/RohanShrivastava08/Hashnode-Blogs/assets/94133270/df6f25a6-705b-4d33-8485-33091925c2c8)
-<a href="https://twitter.com/rohan_sh0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohan_sh0808" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohan-shrivastava-887a15251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-shrivastava-887a15251" height="30" width="40" /></a>
+
