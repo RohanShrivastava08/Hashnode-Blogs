@@ -1,5 +1,6 @@
 ---
-title: "Simplify Your MongoDB Workflow with : "Mongoose NPM""
+title: "Simplify Your MongoDB Workflow with :
+Mongoose NPM"
 datePublished: Tue Jun 11 2024 07:18:47 GMT+0000 (Coordinated Universal Time)
 cuid: clxa2md0p000509mkfhaa1xk5
 slug: simplify-your-mongodb-workflow-with-mongoose-npm
