@@ -1,12 +1,11 @@
 # Hashnode-Blogs
-● Welcome to My Hashnode-Blogs repository! 
-
-● This repository is dedicated to hosting all the blog posts I've published on Hashnode, providing an organized and accessible way to read and reference my work.
 
 ![Screenshot (60)](https://github.com/RohanShrivastava08/Hashnode-Blogs/assets/94133270/4213d1ec-8d52-4958-b228-2a5ae88c8963)
 
 
+● Welcome to My Hashnode-Blogs repository! 
 
+● This repository is dedicated to hosting all the blog posts I've published on Hashnode, providing an organized and accessible way to read and reference my work.
 
 📚 About
 
