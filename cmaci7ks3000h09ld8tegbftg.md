@@ -37,7 +37,7 @@ Here’s how I did it in just a few minutes.
 ### 1️⃣ Create a Vite + React project
 
 ```javascript
-bashCopyEditnpm create vite@latest my-tailwind-app -- --template react
+npm create vite@latest my-tailwind-app -- --template react
 cd my-tailwind-app
 npm install
 ```
@@ -47,7 +47,7 @@ npm install
 ### 2️⃣ Install Tailwind CSS and its Vite plugin
 
 ```javascript
-bashCopyEditnpm install tailwindcss @tailwindcss/vite
+npm install tailwindcss @tailwindcss/vite
 ```
 
 This installs both Tailwind and its official Vite plugin for smooth integration.
@@ -59,7 +59,7 @@ This installs both Tailwind and its official Vite plugin for smooth integration.
 Open `vite.config.js` or `vite.config.ts` and update it like this:
 
 ```javascript
-jsCopyEditimport { defineConfig } from 'vite';
+import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 
@@ -75,7 +75,7 @@ export default defineConfig({
 Inside `src/`, create a file called `styles.css` (or any name you like), and add:
 
 ```javascript
-cssCopyEdit@import "tailwindcss";
+@import "tailwindcss";
 ```
 
 Now Tailwind will inject all its utility classes here!
@@ -87,7 +87,7 @@ Now Tailwind will inject all its utility classes here!
 Import the `styles.css` in your `main.jsx` file:
 
 ```javascript
-jsxCopyEditimport React from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App.jsx';
 import './styles.css'; // <-- Tailwind styles
@@ -106,7 +106,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 Now just run:
 
 ```javascript
-bashCopyEditnpm run dev
+npm run dev
 ```
 
 That’s it! Your app is now using Tailwind CSS! 🎉
@@ -118,7 +118,7 @@ That’s it! Your app is now using Tailwind CSS! 🎉
 Open your `App.jsx` and add a simple heading:
 
 ```javascript
-jsxCopyEditfunction App() {
+function App() {
   return (
     <div className="text-3xl font-bold underline text-blue-600 p-4">
       Hello Tailwind + Vite! 👋
