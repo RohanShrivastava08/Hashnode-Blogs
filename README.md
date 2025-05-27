@@ -4,23 +4,23 @@
 
 
 ● Welcome to My Hashnode-Blogs repository! 
-
 ● This repository is dedicated to hosting all the blog posts I've published on Hashnode, providing an organized and accessible way to read and reference my work.
+
+# Badges-Earned
+![First Badge](https://github.com/RohanShrivastava08/Hashnode-Blogs/assets/94133270/248a5960-aa43-4bb1-b222-c4f9f49d6e08)
+
+![Second Badge](https://github.com/RohanShrivastava08/Hashnode-Blogs/assets/94133270/df6f25a6-705b-4d33-8485-33091925c2c8)
 
 📚 About
 
 ● This repository serves as a comprehensive collection of my blog posts, covering a wide range of topics including technology, programming, personal development, and industry insights. 
-
 ● Each blog post is stored in Markdown format for easy reading and collaboration.
 
 📝 Blog Topics
 
 ● Technology: In-depth articles on the latest trends, innovations, and tools in the tech industry.
-
 ● Programming: Tutorials, best practices, code snippets, and project showcases.
-
 ● Personal Development: Tips, strategies, and stories aimed at personal and professional growth.
-
 ● Industry Insights: Analysis and commentary on current events, market trends, and the future of various industries.
 
 📂 Repository Structure
@@ -28,9 +28,7 @@
 The repository is organized by topic for easy navigation:
 
 markdown
-
 Copy code
-
 /blogs
 
   /technology
@@ -60,9 +58,7 @@ Copy code
 📋 How to Use
 
 ● Browse: Navigate through the folders to find blog posts categorized by topic.
-
 ● Read: Open the Markdown files to read the full content of each post.
-
 ● Clone: Clone the repository to your local machine for offline reading or personal use.
 
 
@@ -71,19 +67,14 @@ Copy code
 Contributions are welcome! If you'd like to contribute to this repository, please follow these steps:
 
 ● Fork the repository.
-
 ● Create a new branch (git checkout -b feature-branch).
-
 ● Make your changes and commit them (git commit -m 'Add some feature').
-
 ● Push to the branch (git push origin feature-branch).
-
 ● Open a pull request.
 
 ⭐️ Support
 
 ● If you find my blogs helpful or insightful, please consider starring this repository. 
-
 ● Your support is greatly appreciated!
 
 
@@ -100,8 +91,5 @@ Thank you for visiting the Hashnode-Blogs repository!
 
 Happy reading and coding! 🚀
 
-# Badges-Earned
-![First Badge](https://github.com/RohanShrivastava08/Hashnode-Blogs/assets/94133270/248a5960-aa43-4bb1-b222-c4f9f49d6e08)
 
-![Second Badge](https://github.com/RohanShrivastava08/Hashnode-Blogs/assets/94133270/df6f25a6-705b-4d33-8485-33091925c2c8)
 
