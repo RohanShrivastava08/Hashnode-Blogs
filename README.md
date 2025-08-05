@@ -1,4 +1,4 @@
-<h1 align="center">📘 Hashnode Blogs Repository</h1>
+<h1 align="center">📘 My Hashnode Blogs Repository</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/RohanShrivastava08/Hashnode-Blogs?style=for-the-badge" />
