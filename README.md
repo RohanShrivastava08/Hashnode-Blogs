@@ -17,6 +17,8 @@
 ## 🖼️ Preview
 
 <p align="center">
+  <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/e528ee7a-602d-4e0e-9ad1-5e90fe667777" />
+  
   <img src="https://github.com/RohanShrivastava08/Hashnode-Blogs/assets/94133270/4213d1ec-8d52-4958-b228-2a5ae88c8963" width="80%" alt="Hashnode Blog Screenshot" />
 </p>
 
