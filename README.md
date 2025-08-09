@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  🚀 A well-structured, version-controlled home for all my blog posts published on <a href="https://hashnode.com/@RohanShrivastava08" target="_blank"><strong>Hashnode</strong></a>. Explore topics like web dev, AI, productivity, and tech tools. 👨‍💻✨
+  - 🚀 A well-structured, version-controlled home for all my blog posts published on <a href="https://hashnode.com/@RohanShrivastava08" target="_blank"><strong>Hashnode</strong></a>.
+  - Explore topics like web dev, AI, productivity, and tech tools. 👨‍💻✨
 </p>
 
 ---
