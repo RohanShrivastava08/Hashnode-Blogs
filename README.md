@@ -36,7 +36,7 @@
 
 ## 📚 About
 
-This repository hosts all the blogs I've written on **Hashnode**, making them easily accessible for reading, referencing, and offline use.
+- This repository hosts all the blogs I've written on **Hashnode**, making them easily accessible for reading, referencing, and offline use.
 
 ### ✍️ Topics Covered:
 - **Technology**: Innovations, product deep-dives, AI tools
