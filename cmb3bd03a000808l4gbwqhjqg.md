@@ -1,5 +1,5 @@
 ---
-title: "💻 Switching from Lenovo Legion Y540 to MacBook Air M3 — My Experience as a Developer"
+title: "💻 Switching from Lenovo Legion Y540 to MacBook Air M3: My Experience as a Developer"
 datePublished: Sun May 25 2025 07:04:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmb3bd03a000808l4gbwqhjqg
 slug: switching-from-lenovo-legion-y540-to-macbook-air-m3-my-experience-as-a-developer
@@ -10,7 +10,7 @@ tags: ai, artificial-intelligence, trends, software-development, technology, mac
 
 Hey everyone 👋
 
-I recently made a big switch in my developer setup — moved from my **Lenovo Legion Y540 (Windows)** to the sleek and powerful **MacBook Air M3**. And let me tell you, as a frontend developer who codes daily in **React, TailwindCSS, and Node.js**, it’s been a game-changer.
+I recently made a big switch in my developer setup moved from my **Lenovo Legion Y540 (Windows)** to the sleek and powerful **MacBook Air M3**. And let me tell you, as a frontend developer who codes daily in **React, TailwindCSS, and Node.js**, it’s been a game-changer.
 
 I thought I’d share my honest experience for anyone who's planning to switch or is curious about how the MacBook performs for coding in general.
 
@@ -20,7 +20,7 @@ I thought I’d share my honest experience for anyone who's planning to switch o
 
 ### 🖥️ My Old Setup: Lenovo Legion Y540
 
-This was my first serious machine — solid performance with a dedicated GPU (GTX 1650), good keyboard, and Windows 10. I used it for everything — coding, design, browsing, and sometimes even gaming.
+This was my first serious machine solid performance with a dedicated GPU (GTX 1650), good keyboard, and Windows 10. I used it for everything coding, design, browsing, and sometimes even gaming.
 
 But slowly I started noticing a few things:
 
@@ -30,7 +30,7 @@ But slowly I started noticing a few things:
     
 * It felt heavy to carry and not very portable.
     
-* Windows updates — well, they were a pain sometimes 😅
+* Windows updates well, they were a pain sometimes 😅
     
 
 Still, it was a good machine that helped me learn and grow.
@@ -41,7 +41,7 @@ Still, it was a good machine that helped me learn and grow.
 
 ### 🚀 Enter the MacBook Air M3
 
-I always heard people say “Mac just feels smooth for devs” — and now I get it.
+I always heard people say “Mac just feels smooth for devs” and now I get it.
 
 The MacBook Air M3 has been an **absolute delight** to work with.
 
@@ -54,7 +54,7 @@ The MacBook Air M3 has been an **absolute delight** to work with.
 #### 1\. **Speed and Silence**
 
 The first thing I noticed? **It’s blazing fast and completely silent.**  
-No fan, no heat, no lag — even when running a dev server, multiple terminals, VS Code, Chrome tabs, and Figma together.
+No fan, no heat, no lag even when running a dev server, multiple terminals, VS Code, Chrome tabs, and Figma together.
 
 #### 2\. **Battery Life 🔋**
 
@@ -64,7 +64,7 @@ Compared to the 2–3 hours I used to get on my old machine, this felt insane.
 #### 3\. **Terminal & Unix Power**
 
 I didn’t know I’d love the **Mac terminal** so much.  
-I feel more in control using zsh + oh-my-zsh, and most dev tools are optimized for Unix-based systems — from Git to Node, everything just works better.
+I feel more in control using zsh + oh-my-zsh, and most dev tools are optimized for Unix-based systems from Git to Node, everything just works better.
 
 #### 4\. **Trackpad + Gestures 🖱️**
 
@@ -73,13 +73,13 @@ I barely use a mouse now. The **smooth gestures**, mission control, and swipe be
 
 #### 5\. **Display & Design 👀**
 
-The **Retina display** is super crisp — I enjoy coding and even just looking at my UI designs more.  
+The **Retina display** is super crisp I enjoy coding and even just looking at my UI designs more.  
 And the MacBook itself? **Thin, light, and premium AF.**
 
 #### 6\. **No More Random Distractions**
 
 Mac feels minimal. There’s **less bloat**, fewer interruptions, and more focus.  
-I actually enjoy sitting down to code now — which says a lot!
+I actually enjoy sitting down to code now which says a lot!
 
 ---
 
@@ -93,7 +93,7 @@ I actually enjoy sitting down to code now — which says a lot!
     
 * **Homebrew** for installing stuff
     
-* **Node, npm, pnpm, nvm** — smooth setup
+* **Node, npm, pnpm, nvm** smooth setup
     
 * **Figma** runs beautifully
     
@@ -125,10 +125,4 @@ But all of this took just **2–3 days** and now it feels natural.
 
 I didn’t expect a laptop to **motivate me to code more**, but that’s exactly what happened.
 
-If you’re a developer thinking about switching to the **MacBook Air M3**, I’d say: **go for it.** It’s light, powerful, silent, and battery-friendly — perfect for web development.
-
-My Lenovo served me well, but this MacBook?  
-Feels like I levelled up. ⚡
-
-Thanks for reading 🙌  
-Let me know your setup or experience if you switched to Mac too!
+If you’re a developer thinking about switching to the **MacBook Air M3**, I’d say: **go for it.** It’s light, powerful, silent, and battery-friendly perfect for web development.
