@@ -1,5 +1,5 @@
 ---
-title: "🚀 Getting Started with Claude Code in VS Code — My First Experience"
+title: "🚀 Getting Started with Claude Code in VS Code: My First Experience"
 datePublished: Sun Jun 29 2025 09:40:09 GMT+0000 (Coordinated Universal Time)
 cuid: cmchhbf2q000002ldgbmo56b6
 slug: getting-started-with-claude-code-in-vs-code-my-first-experience
@@ -10,7 +10,7 @@ tags: ai, artificial-intelligence, technology, apis, learning, hashnode, extensi
 ---
 
 Hey folks 👋  
-I recently discovered something really cool — the **Claude Code** extension for **VS Code** by **Anthropic**. If you're into AI-powered coding help (like GitHub Copilot, ChatGPT, etc.), then this might just excite you too!
+I recently discovered something really cool the **Claude Code** extension for **VS Code** by **Anthropic**. If you're into AI-powered coding help (like GitHub Copilot, ChatGPT, etc.), then this might just excite you too!
 
 In this short blog, I’ll walk you through how I got started with it, how it works, and what you need to do if you want to try it yourself.
 
@@ -18,7 +18,7 @@ In this short blog, I’ll walk you through how I got started with it, how it wo
 
 ### 🧠 What is Claude Code?
 
-Claude Code is a VS Code extension powered by Anthropic’s Claude models — large language models (LLMs) like ChatGPT but with their own twist. Claude is known for being very helpful, precise, and aligned with human feedback. It can help you:
+Claude Code is a VS Code extension powered by Anthropic’s Claude models large language models (LLMs) like ChatGPT but with their own twist. Claude is known for being very helpful, precise, and aligned with human feedback. It can help you:
 
 * Auto-complete code
     
@@ -51,7 +51,7 @@ I opened VS Code, searched for **Claude Code** in the Extensions tab, and instal
 
 #### 4\. **Configure the API Key**
 
-After installation, I opened the command palette (`Cmd+Shift+P` or `Ctrl+Shift+P`) and searched for `Claude: Set API Key`. I pasted the API key I got earlier, and boom 💥 — it was ready to go!
+After installation, I opened the command palette (`Cmd+Shift+P` or `Ctrl+Shift+P`) and searched for `Claude: Set API Key`. I pasted the API key I got earlier, and boom, it was ready to go!
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1751189902198/dbec9384-963f-44ef-96ea-f540e555f403.png align="center")
 
@@ -80,6 +80,6 @@ If you're:
 
 ### 🔚 Final Thoughts
 
-I'm still exploring it, but Claude Code looks promising. It’s fast, feels lightweight, and just works. If you're already using other AI dev tools, Claude is worth adding to your toolbox. Plus, it's backed by one of the most exciting AI labs right now — **Anthropic**.
+I'm still exploring it, but Claude Code looks promising. It’s fast, feels lightweight, and just works. If you're already using other AI dev tools, Claude is worth adding to your toolbox. Plus, it's backed by one of the most exciting AI labs right now **Anthropic**.
 
 Let me know if you’ve tried it too or need help setting it up. I’ll keep posting updates as I explore more.
