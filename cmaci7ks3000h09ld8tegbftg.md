@@ -1,5 +1,5 @@
 ---
-title: "Getting Started with Tailwind CSS (Latest Version) in a React + Vite Project — The Easy Way!🌟"
+title: "Getting Started with Tailwind CSS (Latest Version) in a React + Vite Project: The Easy Way!🌟"
 datePublished: Tue May 06 2025 12:46:54 GMT+0000 (Coordinated Universal Time)
 cuid: cmaci7ks3000h09ld8tegbftg
 slug: getting-started-with-tailwind-css-latest-version-in-a-react-vite-project-the-easy-way
@@ -10,7 +10,7 @@ tags: blogging, trends, software-development, technology, web-development, webde
 
 Hey folks 👋
 
-I recently explored the latest version of **Tailwind CSS**, and I’ve got to say — it’s one of the best CSS frameworks out there. It’s fast, flexible, and makes styling modern UIs a breeze. In this blog, I’ll walk you through how I installed Tailwind CSS in a React project using **Vite**. So, if you're starting fresh or just want a quick and clean setup, this guide is for you!
+I recently explored the latest version of **Tailwind CSS**, and I’ve got to say it’s one of the best CSS frameworks out there. It’s fast, flexible, and makes styling modern UIs a breeze. In this blog, I’ll walk you through how I installed Tailwind CSS in a React project using **Vite**. So, if you're starting fresh or just want a quick and clean setup, this guide is for you!
 
 ---
 
@@ -149,7 +149,3 @@ If you're someone who loves writing minimal CSS and focusing on functionality an
     
 
 ---
-
-Thanks for reading 🙌  
-If you found this helpful, feel free to share or drop a comment on my Hashnode!  
-Let’s build something awesome. 💻✨
