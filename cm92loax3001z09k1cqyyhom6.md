@@ -8,16 +8,16 @@ tags: artificial-intelligence, blogging, trends, github, technology, design, web
 
 ---
 
-* While working on my latest creative web project, I stumbled upon something that totally leveled up my website experience — **Locomotive Scroll**.
+* While working on my latest creative web project, I stumbled upon something that totally leveled up my website experience **Locomotive Scroll**.
     
 * At first, I thought, "Eh, just another scroll library?"
     
-* But as I explored it more, I realized it’s not just smooth scroll — it’s **smooth + animated + immersive**. So here’s everything I learned, explained simply.
+* But as I explored it more, I realized it’s not just smooth scroll it’s **smooth + animated + immersive**. So here’s everything I learned, explained simply.
     
 
 ## What is Locomotive Scroll?
 
-* Locomotive Scroll is a JavaScript library that lets me control how my page scrolls — making it feel smooth, modern, and dynamic.
+* Locomotive Scroll is a JavaScript library that lets me control how my page scrolls making it feel smooth, modern, and dynamic.
     
 * It allows me to add cool animations, parallax effects, and even scroll-based transitions.
     
@@ -52,7 +52,7 @@ Most scroll libraries either:
 * Or trigger animations with basic scroll events
     
 
-**Locomotive Scroll does both** — and it gives me:
+**Locomotive Scroll does both** and it gives me:
 
 ✅ Inertia scrolling  
 ✅ Parallax effects  
@@ -141,6 +141,6 @@ Tip: When using in **React/Vite/SPA setups**, make sure to reinitialize on route
 
 ## Conclusion
 
-If you're building a **creative, immersive** website — Locomotive Scroll is 🔥.
+If you're building a **creative, immersive** website Locomotive Scroll is 🔥.
 
 It’s easy to set up once you understand the structure, and the final result is super impressive.
