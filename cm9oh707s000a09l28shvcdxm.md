@@ -1,5 +1,5 @@
 ---
-title: "Oops, I Pushed firebase.js to GitHub — Here’s How I Recovered Like a Pro"
+title: "Oops, I Pushed firebase.js to GitHub: Here’s How I Recovered Like a Pro"
 datePublished: Sat Apr 19 2025 17:11:59 GMT+0000 (Coordinated Universal Time)
 cuid: cm9oh707s000a09l28shvcdxm
 slug: oops-i-pushed-firebasejs-to-github-heres-how-i-recovered-like-a-pro
@@ -10,12 +10,11 @@ tags: blogging, trends, github, technology, git, learning, coding, tech, hashnod
 
 So, something happened recently that made my stomach drop.
 
-I was working on my project like usual, pushing updates, tweaking components, polishing my Firebase setup — the usual grind. Everything was going smooth until I pushed my code to GitHub… and realized something horrifying.
+I was working on my project like usual, pushing updates, tweaking components, polishing my Firebase setup the usual grind. Everything was going smooth until I pushed my code to GitHub… and realized something horrifying.
 
 **I had pushed** `firebase.js` to a public repo.  
 With **API keys.**  
-Exposed. To the world.  
-😐😐😐
+Exposed. To the world.
 
 ### That oh-no moment...
 
@@ -27,11 +26,9 @@ But guess what? Git doesn’t forget. Even if the file is gone from your latest 
 
 So technically, **the damage was already done**.
 
-![]( align="center")
-
 ### Panic mode: ON 🔥
 
-I searched everything — “How to remove sensitive files from GitHub,” “firebase.js exposed GitHub fix,” “how to delete commit history file,” and more.
+I searched everything “How to remove sensitive files from GitHub,” “firebase.js exposed GitHub fix,” “how to delete commit history file,” and more.
 
 Eventually, I found the solution. An old-school command, powerful and effective:
 
@@ -62,7 +59,7 @@ What this command does:
 * Cleans up empty commits after removing the file.
     
 
-You’ll get a warning that `git filter-branch` has some risks — that’s true, especially if you're working with a team or shared repo. But in my case, I was flying solo, so I hit enter and hoped for the best.
+You’ll get a warning that `git filter-branch` has some risks that’s true, especially if you're working with a team or shared repo. But in my case, I was flying solo, so I hit enter and hoped for the best.
 
 ### Step 2: Force push the cleaned history
 
@@ -73,7 +70,7 @@ bashCopyEditgit push origin --force --all
 git push origin --force --tags
 ```
 
-Boom. GitHub now had a clean history. The file was **gone** — not just from the latest commit, but from **everywhere**.
+Boom. GitHub now had a clean history. The file was **gone** not just from the latest commit, but from **everywhere**.
 
 ### Step 3: Double-check using `git log`
 
@@ -91,7 +88,7 @@ I even checked GitHub manually. It was clean. No trace of the file. Success.
 
 ## What I Learned (The Hard Way)
 
-This was a solid slap of a lesson. But I learned a lot — and if you’re reading this, maybe you can avoid the same mistake.
+This was a solid slap of a lesson. But I learned a lot and if you’re reading this, maybe you can avoid the same mistake.
 
 ### 1\. Never push secrets to GitHub. Not even by mistake.
 
@@ -111,17 +108,17 @@ GitHub has built-in alerts now. You can also use third-party tools to scan for e
 
 ---
 
-## Mistakes Happen — That’s How We Grow 💡
+## Mistakes Happen: That’s How We Grow 💡
 
 Look, we’re all human. We’re devs juggling 100 things, switching between files, trying to ship features and squash bugs at the same time.
 
 Sometimes, mistakes happen.
 
-What matters is that we learn, fix, and share — so the next person can avoid the same pitfall.
+What matters is that we learn, fix, and share so the next person can avoid the same pitfall.
 
 I’m sharing this not because I’m proud of what happened… but because I’m proud I fixed it, learned from it, and came out a better developer.
 
-If you’ve ever messed up and felt like it was the end of the world — trust me, it’s not. You got this.
+If you’ve ever messed up and felt like it was the end of the world trust me, it’s not. You got this.
 
 ---
 
