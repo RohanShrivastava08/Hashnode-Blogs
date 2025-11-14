@@ -9,7 +9,7 @@ tags: ai, artificial-intelligence, technology, firebase, google-cloud, google, t
 
 ---
 
-As someone who’s always exploring ways to blend AI into everyday tools, I recently started building an **AI-powered resume generator** — and trust me, using **Genkit** has made the entire experience incredibly smooth and efficient.
+As someone who’s always exploring ways to blend AI into everyday tools, I recently started building an **AI-powered resume generator** and trust me, using **Genkit** has made the entire experience incredibly smooth and efficient.
 
 In this post, I’ll walk you through why I chose Genkit, how it integrates with Firebase Studio, and how it’s helping me build smarter features with less effort.
 
@@ -17,13 +17,13 @@ In this post, I’ll walk you through why I chose Genkit, how it integrates with
 
 ## ⚡ What is Genkit?
 
-[**Genkit**](https://genkit.dev) is an open-source developer toolkit designed to simplify the process of adding AI capabilities — like text generation, embeddings, and workflows — directly into your application. It works beautifully with modern web stacks, offers devtools out of the box, and supports popular LLM providers like OpenAI, Vertex AI, and more.
+[**Genkit**](https://genkit.dev) is an open-source developer toolkit designed to simplify the process of adding AI capabilities — like text generation, embeddings, and workflows directly into your application. It works beautifully with modern web stacks, offers devtools out of the box, and supports popular LLM providers like OpenAI, Vertex AI, and more.
 
 ---
 
 ## 🔧 Why I’m Using Genkit
 
-In my current project, I’m building a resume assistant that generates personalized content — things like:
+In my current project, I’m building a resume assistant that generates personalized content things like:
 
 * 📄 Professional summaries
     
@@ -32,7 +32,7 @@ In my current project, I’m building a resume assistant that generates personal
 * ✍️ Tailored bullet points based on job descriptions
     
 
-To make this smart and scalable, I needed a system that could handle prompt engineering, chaining logic, and LLMs — all inside a familiar development environment. That’s where Genkit clicked for me.
+To make this smart and scalable, I needed a system that could handle prompt engineering, chaining logic, and LLMs all inside a familiar development environment. That’s where Genkit clicked for me.
 
 ---
 
@@ -66,7 +66,7 @@ Behind the scenes:
 3. **Validates & formats** the result before saving via Firebase
     
 
-Switching between models (like GPT-4 or Google’s PaLM) is super easy — just update the config.
+Switching between models (like GPT-4 or Google’s PaLM) is super easy just update the config.
 
 ---
 
