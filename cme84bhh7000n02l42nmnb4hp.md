@@ -9,7 +9,7 @@ tags: ai, artificial-intelligence, twitter, software-development, programming, t
 
 ---
 
-Today, I tried **Grok 4 in Expert Mode** for the first time, and I have to say—it’s amazing!
+Today, I tried **Grok 4 in Expert Mode** for the first time, and I have to say it’s amazing!
 
 I’ve used **Grok 3** before, which is super fast and gives quick answers. But Grok 4 feels different. It takes a little more time, but the answers are **more detailed, well-organized, and super helpful**.
 
@@ -43,7 +43,9 @@ When I asked Grok 4 for help, it guided me step-by-step:
 * **Grok 4 Expert Mode** → Slower, but gives deeper and better answers.
     
 
-It’s like Grok 3 is instant coffee, and Grok 4 is a perfectly brewed coffee ☕—both are good, but one feels richer.
+It’s like Grok 3 is instant coffee, and Grok 4 is a perfectly brewed coffee ☕
+
+both are good, but one feels richer.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754976640688/8eff651b-7bf3-4640-b147-a51a0bd3cf40.png align="center")
 
