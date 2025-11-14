@@ -52,7 +52,7 @@ export default function Home() {
 }
 ```
 
-Notice that I didn't have to set up any routing here! Next.js automatically knows that this component is the homepage because it’s inside the `pages` folder. That’s one of the key benefits of using Next.js—automatic routing.
+Notice that I didn't have to set up any routing here! Next.js automatically knows that this component is the homepage because it’s inside the `pages` folder. That’s one of the key benefits of using Next.js automatic routing.
 
 ### Key Differences
 
@@ -79,7 +79,3 @@ On the other hand, if I’m building a basic single-page app where SEO isn’t a
 ### Final Thoughts
 
 In the end, the choice between **Next.js** and **React** comes down to the type of project I’m working on. For static sites or apps that require SEO, Next.js is a fantastic choice. If I’m focusing on a client-side application with complex UI, then React might be all I need.
-
-Hope this helps clarify the differences between these two!
-
-Let me know if you have any questions or comments.
