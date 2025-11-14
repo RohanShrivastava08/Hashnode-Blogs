@@ -8,11 +8,11 @@ tags: blog, blogging, technology, tech, hashnode, nextjs, vercel, hashnodecommun
 
 ---
 
-Recently, I deployed my Next.js project on Vercel, [and i](https://vercel.com)t was surprisingly easy. If you're new to deploying Next.js apps, here's how I did it:
+Recently, I deployed my Next.js project on Vercel, and [i](https://vercel.com)t was surprisingly easy. If you're new to deploying Next.js apps, here's how I did it:
 
 ### 1\. **Create a Next.js Project**
 
-First, I created my N[ext.js](https://vercel.com) project using the comm[and:](https://vercel.com)
+First, I created my Next.js project using the command:
 
 ```javascript
 npx create-next-app@latest
@@ -22,7 +22,7 @@ This sets up the basic structure of the app.
 
 ### 2\. **P**[**ush to**](https://vercel.com) **GitHub**
 
-Once my project was ready, I pu[shed t](https://vercel.com)he code to a [GitHub](https://vercel.com) repository. If you haven't done this before, you can initialize a git repository using:
+Once my project was ready, I pushed the code to a GitHub repository. If you haven't done this before, you can initialize a git repository using:
 
 ```javascript
 git init
@@ -34,14 +34,14 @@ git push -u origin main
 
 ### 3\. **Connect to Vercel**
 
-I then went to [Vercel](https://vercel.com), signe[d in,](https://vercel.com) and clicked on t[he **"Ne**](https://vercel.com)**w Project"** button. Vercel automatically detected my GitHub repositories, so I selected my Next.js project from the list.
+I then went to [Vercel](https://vercel.com), signe[d in,](https://vercel.com) and clicked on the **"New Project"** button. Vercel automatically detected my GitHub repositories, so I selected my Next.js project from the list.
 
 ### 4\. **Deploy**
 
-Once selected, I simply clicked **"Deploy**[**"**, and](https://vercel.com) that[’s it!](https://vercel.com) Vercel took care of the rest. It deployed my Next.js app, and in a few minutes, my project was live with a URL.
+Once selected, I simply clicked **"Deploy"**, and that[’](https://vercel.com)s it! Vercel took care of the rest. It deployed my Next.js app, and in a few minutes, my project was live with a URL.
 
 ### 5\. **Live Link**
 
-After deployment, I got a live link [where](https://vercel.com) my Next.[js pro](https://vercel.com)ject was hosted. Now, I can easily share it with anyone.
+After deployment, I got a live link where my Next.js project was hosted. Now, I can easily share it with anyone.
 
 That's how I deployed my Next.js project using Vercel. The whole process was smooth, and it hardly took any time!
