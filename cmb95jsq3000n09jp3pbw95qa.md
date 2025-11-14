@@ -14,7 +14,7 @@ tags: ai, artificial-intelligence, technology, firebase, google-cloud, learning,
 Hey folks! 👋  
 I recently came across a tool called **Firebase Studio**, and after using it in one of my major projects (built with **Next.js, TypeScript, and Tailwind CSS**), I just had to write about it.
 
-It made my development process smoother, faster, and more visual — especially when it came to setting up **Firebase Firestore**, **security rules**, and **types**.
+It made my development process smoother, faster, and more visual especially when it came to setting up **Firebase Firestore**, **security rules**, and **types**.
 
 So in this blog, I’ll share:
 
@@ -90,7 +90,7 @@ When I started using Firebase Studio, I immediately noticed these benefits:
     
 * 🛡️ **Auto Rules**: Instead of writing complex Firestore security rules manually, it gave me clean rule snippets.
     
-* 💻 **Type Safety**: It gave me types that work directly in TypeScript — no need to guess.
+* 💻 **Type Safety**: It gave me types that work directly in TypeScript no need to guess.
     
 * 🕒 **Time-Saving**: No repetitive steps like creating collections manually via the Firebase console.
     
@@ -201,6 +201,3 @@ If you:
 Then **Firebase Studio is 100% worth a try.**
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748509470778/591571b8-d85e-4e8b-a3c4-90938d093e15.png align="center")
-
-Let me know if you’d like a full **video tutorial or project demo** using Firebase Studio — I’d love to share more with the dev community! 😊  
-Happy coding! 💻✨
