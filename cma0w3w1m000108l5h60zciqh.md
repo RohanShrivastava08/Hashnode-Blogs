@@ -10,7 +10,7 @@ tags: blogging, github, technology, learning, tech, hashnode, linkedin, github-a
 
 In today’s digital world, backing up your personal notes is just as important as writing them. I’ve been using **Obsidian** as my second brain, and recently, I took it a step further by integrating it with **GitHub** for automated backup and version control.
 
-Here’s my simple, organized journey — and how you can do it too!
+Here’s my simple, organized journey and how you can do it too!
 
 ---
 
@@ -87,7 +87,7 @@ Inside Obsidian, I:
 * Entered my GitHub username and pasted the generated token as the password
     
 
-Boom — my repository was now cloned inside Obsidian Vault!
+Boom my repository was now cloned inside Obsidian Vault!
 
 ---
 
@@ -100,8 +100,8 @@ Now, everything I write inside this folder is version-controlled.
 
 ### 6\. Making and Editing Notes
 
-As usual, I created and edited my notes freely — journals, ideas, code snippets, everything! 📝  
-Nothing changed about my writing process — only now it’s way more secure!
+As usual, I created and edited my notes freely journals, ideas, code snippets, everything! 📝  
+Nothing changed about my writing process only now it’s way more secure!
 
 ---
 
@@ -145,7 +145,7 @@ This means even if I forget, my notes are always safely backed up!
 ## 🎯 Final Thoughts
 
 Ever since I connected Obsidian with GitHub, my peace of mind has skyrocketed!  
-I can now brainstorm, plan, and learn freely — knowing every insight is safely stored and ready whenever I need it.
+I can now brainstorm, plan, and learn freely knowing every insight is safely stored and ready whenever I need it.
 
 If you’re serious about your knowledge management, this is a game-changer.  
 Set it up once, and your future self will thank you! 🙌
