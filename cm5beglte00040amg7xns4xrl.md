@@ -10,8 +10,7 @@ tags: content, trends, instagram, technology, hashnode, template, youtube, linke
 
 * As a **coder**, I approach challenges with logic and precision. But when it comes to my **content creation**, I needed a way to stay organized and keep the creative juices flowing.
     
-
-* That’s when I turned to **Notion**—and the results have been nothing short of amazing!
+* That’s when I turned to **Notion** and the results have been nothing short of amazing!
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735584744420/931d8dff-8965-40c7-9db8-04208eef39fe.png align="center")
