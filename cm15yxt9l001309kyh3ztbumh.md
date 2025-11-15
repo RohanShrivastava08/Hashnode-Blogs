@@ -1,5 +1,5 @@
 ---
-title: "Claude AI: A Game-Changer in AI"
+title: "Claude AI: A Game Changer in AI"
 datePublished: Tue Sep 17 2024 05:03:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm15yxt9l001309kyh3ztbumh
 slug: claude-ai-a-game-changer-in-ai
