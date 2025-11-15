@@ -10,7 +10,9 @@ tags: express, blogging, technology, mongodb, nodejs, hashnode, mern, mern-stack
 
 ### Introduction
 
-In this tutorial, we'll explore how to connect a MongoDB database to a Node.js application using the Express server framework. MongoDB, Node.js, and Express.js are popular choices for building scalable and efficient web applications. By the end of this tutorial, you'll have a clear understanding of how to set up and connect these technologies to build a robust web application.
+In this tutorial, we'll explore how to connect a MongoDB database to a Node.js application using the Express server framework.
+
+MongoDB, Node.js, and Express.js are popular choices for building scalable and efficient web applications. By the end of this tutorial, you'll have a clear understanding of how to set up and connect these technologies to build a robust web application.
 
 ### Prerequisites
 
