@@ -165,7 +165,3 @@ If you have a project on your local machine and want to upload it to a new GitHu
 ### Conclusion
 
 * By following these steps, you can easily clone a repository from GitHub to your local machine, make changes, and push them back to GitHub.
-    
-* You can also initialize a local project and upload it to a new GitHub repository.
-    
-* Understanding these basic Git commands is essential for effective version control and collaboration in software development.
