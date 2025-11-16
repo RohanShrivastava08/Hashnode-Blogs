@@ -10,8 +10,6 @@ tags: blogging, github, technology, opensource, hashnode, github-actions, github
 
 * Forking is a fundamental concept in the GitHub ecosystem, pivotal for collaborative software development.
     
-* This article delves into the significance, benefits, drawbacks, and practical uses of forking, along with insights into how it facilitates developers' workflows and the role of pull requests.
-    
 
 #### What is Forking?
 
