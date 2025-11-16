@@ -14,8 +14,6 @@ tags: blogging, technology, react-native, react, reactjs, hashnode, trending, ha
     
 * Designed to address common challenges in modern web development, Vite offers an innovative approach to building projects with React.
     
-* Let's dive into what Vite is, its importance, pros and cons, and how it revolutionizes React development.
-    
 
 #### What is Vite?
 
@@ -104,5 +102,3 @@ To start a new React project with Vite, follow these simple steps:
 * With its lightning-fast development server, seamless HMR, and optimized build process, Vite is poised to become an essential tool for modern web development.
     
 * While it comes with a few challenges, the benefits it brings to the table make it a compelling choice for developers looking to enhance their productivity and build performant web applications.
-    
-* Give Vite a try in your next React project and experience the future of front-end development!
