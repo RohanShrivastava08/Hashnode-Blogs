@@ -45,7 +45,6 @@ SQL is used for various tasks, including:
     
 * Suppose you have a table named `employees` with columns `id`, `name`, and `salary`.
     
-
 * **Selecting Data**:
     
     ```javascript
@@ -154,5 +153,3 @@ SQL is essential because it allows for efficient and precise data management. He
 * SQL is a vital tool for managing and manipulating data in databases.
     
 * Its ease of use, power, and flexibility make it a staple in the world of data management.
-    
-* Whether you’re a beginner or an experienced professional, mastering SQL is a valuable skill that can enhance your ability to work with data efficiently.
