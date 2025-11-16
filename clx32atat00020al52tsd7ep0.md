@@ -10,10 +10,6 @@ tags: java, javascript, nodejs, javascript-framework, node, javascript-library, 
 
 * The struggle is real: web pages grinding to a halt, users tapping their feet impatiently.
     
-* But what if you could build applications that feel light on their feet, even under heavy loads?
-    
-* Buckle up, because Node.js, the champion of asynchronous programming, is here to transform you from a server-side slugger to a real-time rockstar.
-    
 
 ### Why Node.js? All About Speed and Efficiency
 
