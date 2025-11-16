@@ -37,7 +37,7 @@ tags: sql-server, blogging, postgresql, technology, nodejs, sql, hashnode, sqlit
 
 To connect PostgreSQL with a Node.js server, follow these steps:
 
-1. **Install PostgreSQL**: Download and install PostgreSQL from [postgresql.org](https://www.postgresql.org/download/).
+1. **Install PostgreSQL**: Download and install PostgreSQL from postgresql.org.
     
 2. **Set Up a Database**: Create a database and tables using the PostgreSQL command-line interface (CLI) or a graphical tool like pgAdmin.
     
